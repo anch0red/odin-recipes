@@ -1,1 +1,2 @@
 # odin-recipes
+This is a HTML project to demonstrate my ability to display images, use links, and present information in a HTML document as well as my ability to use the GIT workflow of commits and pushes.
